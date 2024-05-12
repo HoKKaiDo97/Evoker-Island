@@ -4,10 +4,10 @@
 
 # Alap parancsok
 
-/help - Minden parancs amihez hozzáférésetek van itt megtekinthető
-/spawn - Kezdőpontra teleportál
-/warp <warpnév> - Létrehozott warpra teleportál
-/warp list - Elérhető warpok listája
-/tpa <játékos> - Teleport kérelem küldése egy játékosnak ( ha nem fogadják el 120mp múlva elévül a kérelem )
-/tpaccept - Teleport kérelem elfogadása
-/tpdeny - Teleport kérelem elutasítása
+* /help - Minden parancs amihez hozzáférésetek van itt megtekinthető
+* /spawn - Kezdőpontra teleportál
+* /warp <warpnév> - Létrehozott warpra teleportál
+* /warp list - Elérhető warpok listája
+* /tpa <játékos> - Teleport kérelem küldése egy játékosnak ( ha nem fogadják el 120mp múlva elévül a kérelem )
+* /tpaccept - Teleport kérelem elfogadása
+* /tpdeny - Teleport kérelem elutasítása
