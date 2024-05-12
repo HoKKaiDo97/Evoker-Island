@@ -1,8 +1,0 @@
-** Fejlesztés v1.1.1 **
-
-Bekerült:
- - Bekerült az MCMMO Plugin és kiszedése került a régi fejlődős rendszer
-
-
-Változtatások:
- - Minden teleport várakoztatása 60mp -> 20mp-re csökkent. ( Kivéve a /rtp parancs az marad )
