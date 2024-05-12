@@ -14,6 +14,6 @@ Köszöntelek az Eoker Island GitHub oldalán!
 - Parkour
 ** ÉS rengeteg más **
 
-##Elérhetőségek
+## Elérhetőségek
 - [Discord](https://discord.evokerisland.hu)
 - IP: **evokerisland.hu**
