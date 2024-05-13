@@ -12,7 +12,7 @@ Köszöntelek az Eoker Island GitHub oldalán!
 - AntiCheat
 - Prémium pluginok
 - Parkour <p>
-# ÉS rengeteg más
+### És rengeteg más
 
 ## Elérhetőségek
 - [Discord](https://discord.evokerisland.hu
