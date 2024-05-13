@@ -15,5 +15,5 @@ Köszöntelek az Eoker Island GitHub oldalán!
 ** ÉS rengeteg más **
 
 ## Elérhetőségek
-- [Discord](https://discord.evokerisland.hu)
+- [Discord](https://discord.evokerisland.hu)<p>
 - IP: **evokerisland.hu**
