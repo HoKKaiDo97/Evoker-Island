@@ -11,9 +11,9 @@ Köszöntelek az Eoker Island GitHub oldalán!
 - Anti-Bot rendszer
 - AntiCheat
 - Prémium pluginok
-- Parkour
+- Parkour <p>
 ** ÉS rengeteg más **
 
 ## Elérhetőségek
-- [Discord](https://discord.evokerisland.hu)<p>
+- [Discord](https://discord.evokerisland.hu
 - IP: **evokerisland.hu**
