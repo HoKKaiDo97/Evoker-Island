@@ -3,6 +3,7 @@
 Köszöntelek az Eoker Island GitHub oldalán!
 
 # V2 hamarosan!
+![coming-soon](https://github.com/user-attachments/assets/ced55d8a-9aca-450b-adbe-b41a2bab3b46)
 
 ## Elérhetőségek
 - [Discord](https://discord.evokerisland.hu)
