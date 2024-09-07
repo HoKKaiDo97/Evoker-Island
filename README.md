@@ -2,18 +2,10 @@
 
 Köszöntelek az Eoker Island GitHub oldalán!
 
-# Röviden a szerverről:
-- Szintes Mobok
-- MCMMO
-- 200+ Enchant ( Vanilla + Egyedi )
-- Munkák
-- Terület levédés ( Nincs telekrendszer )
-- Anti-Bot rendszer
-- AntiCheat
-- Prémium pluginok
-- Parkour <p>
-### És rengeteg más
+# V2 hamarosan!
 
 ## Elérhetőségek
 - [Discord](https://discord.evokerisland.hu)
 - IP: **evokerisland.hu**
+- Verzió: **1.20.x**
+- Javasolt verzió: **1.20.4**
